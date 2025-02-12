@@ -1,5 +1,9 @@
 
-
+interface Project {
+  name: string;
+  description: string;
+  href: string;
+}
 import Link from "next/link";
 import React from "react";
 import { Navigation } from "../components/nav";
