@@ -9,20 +9,14 @@ export const metadata: Metadata = {
     default: "InstaDev_Hub.com",
     template: "%s | InstaDev_Hub.com",
   },
-  description: "Co-founder of unkey.dev and founder of planetfall.io",
+  description: "founder of instaDev hub ",
   openGraph: {
-    title: "chronark.com",
+    title: "Instadev hub",
     description:
-      "Co-founder of unkey.dev and founder of planetfall.io",
-    url: "https://chronark.com",
-    siteName: "chronark.com",
-    images: [
-      {
-        url: "https://chronark.com/og.png",
-        width: 1920,
-        height: 1080,
-      },
-    ],
+      "founder of instaDev hub ",
+    url: "https://insta-dev-hub.vercel.app/",
+    siteName: "insta-dev-hub.com",
+  
     locale: "en-US",
     type: "website",
   },
